@@ -1,0 +1,6 @@
+pH,tds,hardness,nitrate,chloride,fluoride,turbidity,OverallRisk
+7.2,420,190,12,160,0.9,2.2,SAFE
+6.1,650,380,20,280,1.6,3.2,MODERATE
+8.9,1300,720,55,690,2.1,12,UNSAFE
+7.6,300,120,10,180,0.4,1,SAFE
+5.8,450,610,40,240,1.4,6,MODERATE
